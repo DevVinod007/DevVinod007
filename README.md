@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinod
 - 👀 I’m interested in website developement and android apps
-- 🌱 I’m currently learning angular and Kotlin
-- 💞️ I’m looking to collaborate on Kotlin
+- 🌱 I’m currently learning Js and its related Frameworks
+- 💞️ I’m looking to collaborate in JS 
 - 📫 How to reach me vinod8797@gmail.com
 
 <!---
