@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinod
-- 👀 I’m interested in website developement and android apps
+- 👀 I’m interested in website developement and Mobile app development!
 - 🌱 I’m currently learning Js and its related Frameworks
 - 💞️ I’m looking to collaborate in JS 
 - 📫 How to reach me vinod8797@gmail.com
