@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinod
+- 👋 Hi, I’m @Vinod 
 - 👀 I’m interested Developing Web and Mobile apps 
 - 🌱 I’m currently learning Js and its related Frameworks
 - 💞️ I’m looking to collaborate in JS 
