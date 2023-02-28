@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vinod, a **Senior Frontend Engineer** based out of Bangalore working at [Maveric systems](https://maveric-systems.com/). Having around 4.5 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Vinod, a **Senior Frontend Engineer** based out of Bangalore working at [Maveric systems](https://maveric-systems.com/). Having around 4.5 years of experience in full-stack web development, but currently, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinodappriffy/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13898685/vinod)
