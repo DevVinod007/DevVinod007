@@ -34,14 +34,10 @@ I am Vinod, a **Senior Frontend Engineer** based out of Bangalore working at [Ma
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## 📝 Top Blog Posts
-
--   [comming soons ...]
-
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Vinod9164&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinod9164&hide=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DevVinod007&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevVinod007&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vinod9164.Vinod9164)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DevVinod007.DevVinod007)
